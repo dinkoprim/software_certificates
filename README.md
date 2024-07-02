@@ -20,6 +20,5 @@ You can view the certificates by navigating to the respective files in this repo
 Contact
 For any inquiries or verification requests, please contact me at:
 
-Email: angelovdinko@icloud.com
-LinkedIn: Dinko Angelov
+LinkedIn: linkedin.com/in/dinko-angelov-9a3aaa186
 Thank you for your interest in my professional qualifications.
