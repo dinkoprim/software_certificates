@@ -1,6 +1,6 @@
 # software_certificates
 
-Welcome to my Certificates Repository! This repository contains verified certificates from the courses and training programs I have completed. These certifications reflect my dedication to continuous learning and professional development in various fields.
+Welcome to my Certificates Repository! This repository contains certificates from the software courses and training programs I have completed. 
 
 Certificates Included:
 
